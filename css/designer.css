@@ -1,0 +1,99 @@
+header a{
+    font-family: 'Roboto', sans-serif;
+    font-size: 0.9em;
+    color: whitesmoke;
+}
+
+body{
+    background-color: #636363;
+}
+
+
+
+header{
+    background: black;
+}
+h1{
+    color:#ffffff;
+}
+
+.text-paragraph {
+    color: rgb(226, 226, 226);
+    font-size: 20px;
+}
+
+.paragraph {
+    font-size: 16px;
+    line-height: 1.5;
+    margin-bottom: 20px;
+}
+  
+
+#p1 {
+    color: #dadada; 
+}
+
+#p2 {
+    color: #7b7b7b; 
+}
+
+
+
+header nav{
+    background-color: #000004;
+}
+
+header .nav-item:last-child{
+    padding-right: 10.5em;
+}
+
+header .nav-item{
+    padding: 0.9em;
+}
+
+header .navbar-brand{
+    padding-left: 8em;
+}
+
+header .nav-link:hover{
+    color: whitesmoke;
+}
+
+.carousel-control-prev, .carousel-control-next{
+    color: black;
+    margin-top: 300px;
+}
+
+.text-
+
+.section-4 .container h1{
+    font-size: 6vmin;
+    padding-top: 14vmin;
+}
+
+.section-4 .team{
+    padding: 10vmin 4vmin;
+}
+
+.section-4 .card .card-text{
+    padding: 0.5em;
+}
+
+.section-4 .card .card-body a{
+    font-size: 1.5em;
+}
+
+footer {
+    background-color: black;
+    
+}
+
+footer a {
+    color: white;
+
+}
+
+footer a:hover {
+    color: #dfdfdf;
+
+}
